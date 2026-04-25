@@ -9,11 +9,12 @@ A **Power BI Sales Analytics Dashboard** built to analyze customer behavior, ord
 
 ### 🔹 Main Sales Dashboard
 
-(https://github.com/jagadish2003-hub/Sales-Management-Dashboard-Power-BI/blob/a5e87b1008f42411412ba673cff91b1a95ac99f0/Screenshot%202026-04-25%20135130.png)
+![Sales Dashboard](sales-dashboard.png.png)
+
 
 ### 🔹 Insights & Time-Based Analysis
 
-(Screenshot 2026-04-25 135141.png)
+![Insights Dashboard](sales-insights.png.png)
 
 ---
 
