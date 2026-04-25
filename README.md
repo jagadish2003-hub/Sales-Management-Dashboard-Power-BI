@@ -151,7 +151,7 @@ Sales-Analytics-Dashboard/
 ## 📎 Project Link
 
 🔗 GitHub Repository:
-[https://github.com/jagadish2003-hub](https://github.com/jagadish2003-hub) *(update with repo link)*
+(https://github.com/jagadish2003-hub/Sales-Management-Dashboard-Power-BI.git) *(update with repo link)*
 
 ---
 
